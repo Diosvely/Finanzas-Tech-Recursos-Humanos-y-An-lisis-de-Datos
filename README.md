@@ -1,4 +1,4 @@
-# Finanzas Tech – Recursos Humanos y Análisis de Datos
+# Finanzas Tech – Análisis de Salario y RRHH
 
 📌 Descripción del proyecto
 
